@@ -712,3 +712,4 @@ if __name__ == "__main__":
     ex = Space()
     # 退出
     sys.exit(app.exec_())
+    print('ok')
